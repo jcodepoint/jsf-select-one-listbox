@@ -1,5 +1,5 @@
 ## Artículo en JCodePoint
-* [JSF selectOneListbox](https://jcodepoint.com/jsf/etiquetas/jsf-select-one-listbox/)
+* [JSF selectOneListbox](https://jcodepoint.com/jsf/etiquetas/jsf-selectonelistbox/)
 
 JavaServer Faces selectOneListbox component example.
 
